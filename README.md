@@ -95,7 +95,7 @@ Digital Forensics Challenge(DFC)는 국가정보원(NIS)이 주최하고 한국�
 | 이름 | 소속 | 링크 |
 |------|------|------|
 | 이진웅(리더) | 서울호서직업전문학교 | [LinkedIn](https://www.linkedin.com/in/%EC%A7%84%EC%9B%85-%EC%9D%B4-12066828a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) |
-| 김도현 | HDFLAB | — |
+| 김도현 | HDFLAB | [LinkedIn](https://www.linkedin.com/in/kim-do-hyeon/) |
 | 박범준 | HDFLAB | — |
 | 조소영 | HDFLAB | — |
 
