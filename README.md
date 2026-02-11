@@ -4,7 +4,7 @@
 
 # HSPACE
 
-### NIS Digital Forensics Challenge 2025 HSPACE Write-up
+### Digital Forensics Challenge 2025 HSPACE Write-up
 
 <br>
 
